@@ -85,6 +85,22 @@
 <!------------- MY SKILLS --------->
 
 
+
+<!--=================================== MY STATS ===================================-->
+<h2>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="45" /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahramShakiba&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250)](https://git.io/streak-stats) &nbsp; &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramShakiba&layout=compact&theme=vision-friendly-dark) <br/>
+
+
+![GitHub metrics](https://metrics.lecoq.io/ShahramShakiba)  
+
+
+
+
+
+
+
 <!------------- MY SKILLS --------->
 
 
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5368616872616d5368616b696261266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b](https://github.com/monarahmati/monarahmati/assets/107634745/427b5d2c-6cd0-4b6c-a013-a1d4af38e594)
